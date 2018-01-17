@@ -1,4 +1,4 @@
-repos = ['legacy_dashboard', 'listen360', 'models', 'migrations', 'feedback', 'einstein', 'dashboards', 'api_client']
+repos = ['legacy_dashboards', 'listen360', 'models', 'migrations', 'feedback', 'einstein', 'dashboards', 'api_client']
 
 @home_dir = Dir.home
 
